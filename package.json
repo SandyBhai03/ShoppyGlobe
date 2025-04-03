@@ -1,5 +1,5 @@
 {
-  "homepage": "https://your-github-username.github.io/shoppyglobe",
+  "homepage": "https://sandybhai03.github.io/shoppyglobe",
   "name": "shoppyglobe",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
