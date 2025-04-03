@@ -13,6 +13,7 @@ export default defineConfig({
       },
     }, 
   },
+  base: '/ShoppyGlobe/',
   plugins: [
     react(),
     tailwindcss(),
