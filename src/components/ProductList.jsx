@@ -7,7 +7,6 @@ const ProductList = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All");
 
- products.map(product => console.log(product.category))
   // Ensure categories are extracted safely
   const categories = [
     "All",

@@ -16,7 +16,7 @@ const ProductItem = ({ product }) => {
     <div className="product-item relative h-75 bg-gradient-to-r from-white via-slate-100 to-slate-200 rounded shadow-md shadow-gray-500 hover:scale-105 transition-all duration-200">
       <div className="">
         <img
-          className="w-35 mx-auto object-cover mt-2 mb-2"
+          className="w-36 mx-auto object-cover mt-2 mb-2"
           src={product.thumbnail}
           alt={product.title}
         />

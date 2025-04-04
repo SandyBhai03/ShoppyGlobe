@@ -38,7 +38,7 @@ const SearchResults = () => {
       </h2>
 
       {filteredProducts.length > 0 ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-5 gap-5 px-11 lg:px-12 mt-5 pb-7">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-5 gap-15 px-11 lg:px-12 mt-5 pb-7">
           {filteredProducts.map((product) => (
             <ProductItem key={product.id} product={product} />
           ))}

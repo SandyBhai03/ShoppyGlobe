@@ -1,7 +1,7 @@
 # 📌 E-Commerce Application
 
 ## Live Link URL:
-- https://https://sandybhai03.github.io/ShoppyGlobe/
+- https://sandybhai03.github.io/ShoppyGlobe/
 
 
 ## 🚀 Overview
@@ -138,7 +138,7 @@ http://localhost:5173 Or http://localhost:5173/ShoppyGlobe/
 
 - 🌟 Add User Profile Info and Login option.
 
-- 🌟 Add to Book Order section.
+- 🌟 Add to Products Order section.
 
 - 🌍 Deploy the app online.
 
