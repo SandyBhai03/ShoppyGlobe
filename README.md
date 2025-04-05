@@ -1,8 +1,8 @@
 # 📌 E-Commerce Application
 
 ## Live Link URL:
-- https://sandybhai03.github.io/ShoppyGlobe/
 
+- https://sandybhai03.github.io/ShoppyGlobe/
 
 ## 🚀 Overview
 
@@ -14,7 +14,7 @@ This project is part of an Internshala React Project with a total of 250 marks.
 
 - ✅ Home page have for basic functionality.
 
-- ✅ Header section have logo, search-bar and cart buttton and also navbar with multiple categories. 
+- ✅ Header section have logo, search-bar and cart buttton and also navbar with multiple categories.
 
 - ✅ Hero Section for Offers with Sliding effect.
 
@@ -126,11 +126,29 @@ http://localhost:5173 Or http://localhost:5173/ShoppyGlobe/
 - **Not Found** - If URL not matched Not Found Page Show.
 
 ## 📸 Screenshots
-![React Online Library Management App Screenshot](https://github.com/SandyBhai03/Online_Library_System/blob/main/src/assets/Screenshot%20(217).png "Online Library Management App Screenshot1")
-![React Online Library Management App Screenshot](https://github.com/SandyBhai03/Online_Library_System/blob/main/src/assets/Screenshot%20(218).png "Online Library Management App Screenshot2")
-![React Online Library Management App Screenshot](https://github.com/SandyBhai03/Online_Library_System/blob/main/src/assets/Screenshot%20(219).png "Online Library Management App Screenshot3")
-![React Online Library Management App Screenshot](https://github.com/SandyBhai03/Online_Library_System/blob/main/src/assets/Screenshot%20(220).png "Online Library Management App Screenshot4")
-![React Online Library Management App Screenshot](https://github.com/SandyBhai03/Online_Library_System/blob/main/src/assets/Screenshot%20(221).png "Online Library Management App Screenshot5")
+**Header, Navbar and Hero Section(with slider effect)**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(226).png> "E-commerce App Header, Navbar and Hero Section")
+
+**Products Section with Filterable Features**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(227).png> "Products Section with Filterable Features")
+
+**Footer Section**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(228).png> "Footer Section")
+
+**Navbar Filterable Features**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(229).png> "Navbar Filterable Features")
+
+**Search Products with name, category and matches keyword**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(230).png> "Search Products with name, category and matches keyword")
+
+**Product details page with Add to cart functionality**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(231).png> "Product details page with Add to cart functionality")
+
+**Add to cart feature with Success Pop-up**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(232).png> "Add to cart feature with Success Pop-up")
+
+**Cart Page with live update quantity, price and total price**
+![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(233).png> "Cart Page with live update quantity, price and total price")
 
 ## 🛠️ Future Improvements
 
@@ -140,9 +158,12 @@ http://localhost:5173 Or http://localhost:5173/ShoppyGlobe/
 
 - 🌟 Add to Products Order section.
 
+- 🌟 Order Track Feature.
+
 - 🌍 Deploy the app online.
 
 ## 📜 License
+
 This project is open-source and available under the MIT License.
 
 **🔥 Happy Coding! 🚀(Sandeep Yadav)**
