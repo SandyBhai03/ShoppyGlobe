@@ -41,7 +41,7 @@ This project is part of an Internshala React Project with a total of 250 marks.
 ## 📂 Folder Structure
 
 ```sh
-📦 Online_Library_System
+📦 ShoppyGlobe
 📂 src
 ┣ 📂 assets (icons/images)
 ┣ 📂 components
@@ -125,29 +125,30 @@ http://localhost:5173 Or http://localhost:5173/ShoppyGlobe/
 
 - **Not Found** - If URL not matched Not Found Page Show.
 
-## 📸 Screenshots
-**Header, Navbar and Hero Section(with slider effect)**
+## 📸 Website View Screenshots
+
+## 1.✅ Header, Navbar and Hero Section(with slider effect)
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(226).png> "E-commerce App Header, Navbar and Hero Section")
 
-**Products Section with Filterable Features**
+## 2. ✅ Products Section with Filterable Features
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(227).png> "Products Section with Filterable Features")
 
-**Footer Section**
+## 3. ✅ Footer Section
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(228).png> "Footer Section")
 
-**Navbar Filterable Features**
+## 4. ✅ Navbar Filterable Features
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(229).png> "Navbar Filterable Features")
 
-**Search Products with name, category and matches keyword**
+## 5. ✅ Search Products with name, category and matches keyword
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(230).png> "Search Products with name, category and matches keyword")
 
-**Product details page with Add to cart functionality**
+## 6. ✅ Product details page with Add to cart functionality
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(231).png> "Product details page with Add to cart functionality")
 
-**Add to cart feature with Success Pop-up**
+## 7. ✅ Add to cart feature with Success Pop-up
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(232).png> "Add to cart feature with Success Pop-up")
 
-**Cart Page with live update quantity, price and total price**
+## 8. ✅ Cart Page with live update quantity, price and total price
 ![React E-commerce App](<https://github.com/SandyBhai03/ShoppyGlobe/blob/main/src/assets/overview/Screenshot%20(233).png> "Cart Page with live update quantity, price and total price")
 
 ## 🛠️ Future Improvements
